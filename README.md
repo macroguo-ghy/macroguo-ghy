@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **macroguo-ghy/macroguo-ghy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ![macroguo's GitHub stats](https://github-readme-stats.vercel.app/api?username=macroguo-ghy&hide=stars)
+
+
+- I am a coder and a gamer.
+- Code for work.
+- Work for salary.
+- Salary for buying video game.
+- Game for **HAPPY**!
